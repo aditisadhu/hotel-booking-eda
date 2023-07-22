@@ -1,10 +1,10 @@
 # hotel-booking-eda
-###Problem Statement:
+### Problem Statement:
 
 To identify the reasons behind the high cancellation rate at The City and Resort hotels to decide plan of action to reduce it in  next 2 months.
 
 
-###Factors & Hypothesis:
+### Factors & Hypothesis:
 
 The following factors can be the causes of increase in cancellation rates:
 1. Decrease in rating/reviews on booking sites
